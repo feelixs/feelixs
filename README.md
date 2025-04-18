@@ -1,23 +1,20 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Welcome!
 
-<div>
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=feelixs&theme=radical)
-  
-  ![](https://github-readme-stats.vercel.app/api?username=feelixs&show_icons=true&theme=radical)
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feelixs&layout=compact&theme=radical)
-
-</div>
 
 <div align="center">
-  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=feelixs&theme=react-dark)
+
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td valign="top" width="58%">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=feelixs&theme=radical" width="100%"/>
+        </td>
+        <td valign="top" width="42%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelixs&layout=compact&theme=radical" width="100%"/>
+        </td>
+    </tr>
+  </table>
 
 </div>
-
-
-## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
