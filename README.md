@@ -17,57 +17,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-🌆 Daytime                117 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌃 Evening                185 commits         ██████████░░░░░░░░░░░░░░░   39.78 % 
-🌙 Night                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   105 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Tuesday                  86 commits          █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Wednesday                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Friday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Saturday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Sunday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 18/04/2025 12:15:27 UTC
 <!--END_SECTION:waka-->
 
-<!-- Interactive Snake Game -->
-<div align="center">
-
-  <img src="https://github.com/feelixs/feelixs/blob/output/github-contribution-grid-snake.svg" alt="snake eating contributions">
-
-</div>
 
 ---
 
