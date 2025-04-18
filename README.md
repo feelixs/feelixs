@@ -1,19 +1,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Welcome!
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td valign="top" width="37%">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=feelixs&theme=radical" width="100%"/>
-        </td>
-        <td valign="top" width="27%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelixs&layout=compact&theme=radical" width="100%"/>
-        </td>
-        <td valign="top" width="36">
-            <img src="https://github-readme-stats.vercel.app/api?username=feelixs&show_icons=true&theme=radical" width="100%"/>
-        </td>
-    </tr>
-  </table>
+<div>
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=feelixs&theme=radical)
+  
+  ![](https://github-readme-stats.vercel.app/api?username=feelixs&show_icons=true&theme=radical)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feelixs&layout=compact&theme=radical)
+
 </div>
 
 <div align="center">
