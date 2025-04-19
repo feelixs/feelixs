@@ -13,13 +13,6 @@
 
 </div>
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.3%20thousand%20lines%20of%20code-blue)
-
-
- Last Updated on 19/04/2025 10:20:47 UTC
-<!--END_SECTION:waka-->
-
 
 ---
 
@@ -28,12 +21,4 @@
   
   ### Thanks for visiting!
   
-  ![Visitor Count](https://profile-counter.glitch.me/feelixs/count.svg)
-
-</div>
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/feelixs?style=social)](https://github.com/feelixs)
-
 </div>
