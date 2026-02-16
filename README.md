@@ -1,16 +1,5 @@
 <div align="center">
-
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td valign="top" width="58%">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=feelixs&theme=radical" width="100%"/>
-        </td>
-        <td valign="top" width="42%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelixs&layout=compact&theme=radical" width="100%"/>
-        </td>
-    </tr>
-  </table>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feelixs&theme=radical" width="100%"/>
 </div>
 
 
