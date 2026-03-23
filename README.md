@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feelixs&theme=radical" width="100%"/>
+  <img src="https://feelixs-github-readme-stats.vercel.app/api?username=feelixs&theme=radical" width="100%"/>
 </div>
 
 <div align="center">
