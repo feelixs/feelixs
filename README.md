@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-jjuojocey-feelixs-projects.vercel.app/?user=feelixs&theme=radical" width="100%"/>
+  <img src="https://github-readme-streak-stats-psi-smoky.vercel.app/?user=feelixs&theme=radical" width="100%"/>
 </div>
 
 
